@@ -86,7 +86,7 @@
 
 			<artifactId>commons-lang3</artifactId>
 
-			<version>3.9</version>
+			<version>3.18.0</version>
 
 		</dependency>
 
